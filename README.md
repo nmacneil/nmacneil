@@ -1,4 +1,4 @@
-![icon](icon.png)
+![icon](nathan-icon.png)
 
 # ✌️ Hey
 
