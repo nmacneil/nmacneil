@@ -2,6 +2,6 @@
 
 # ✌️ Hey
 
-- 🔭 I’m currently working on my research proposal.
+- 🔭 I’m currently working on my thesis.
 - 🌱 I’m studying some rare plants.
 - 👨‍💻 I mostly do UI work.
